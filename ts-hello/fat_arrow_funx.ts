@@ -1,0 +1,1 @@
+let log = (msg: string) => console.log(msg);
